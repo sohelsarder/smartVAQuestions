@@ -1,2 +1,2 @@
 # smartVAQuestions
-smart VA questionaries repository
+Smart VA questionaries repository
